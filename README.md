@@ -16,20 +16,28 @@
 
 
 ## 🛠 Skills
-- Frontend : ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![SCSS](https://img.shields.io/badge/-SASS-pink?style=flat-circle&logo=sass)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-circle&logo=bootstrap) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react)
+- <b> Frontend : </b> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![SCSS](https://img.shields.io/badge/-SASS-pink?style=flat-circle&logo=sass)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-circle&logo=bootstrap) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react)
 
-- Backend : ![Node](https://img.shields.io/badge/-NodeJs-green?style=flat-circle&logo=node) ![Node](https://img.shields.io/badge/-Express-LightGray?style=flat-circle&logo=express)
+- <b> Backend : </b> ![Node](https://img.shields.io/badge/-NodeJs-green?style=flat-circle&logo=node) ![Node](https://img.shields.io/badge/-Express-LightGray?style=flat-circle&logo=express)
 
-- Database : ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-circle&logo=mongoDB)
+- <b>Database : </b> ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-circle&logo=mongoDB)
 
-- :hammer_and_wrench: Tools：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)  ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+- <b>Tools ：</b> ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)  ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
 
-- 🌱 learning：![C](https://img.shields.io/badge/-C-black?style=flat-circle&logo=C) ![TypeScript](https://img.shields.io/badge/-TypeScript-LightGray?style=flat-circle&logo=typescript)
+- <b>learning：</b> ![C](https://img.shields.io/badge/-C-black?style=flat-circle&logo=C) ![TypeScript](https://img.shields.io/badge/-TypeScript-LightGray?style=flat-circle&logo=typescript)
+
+### Projects
+[![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/)
 
 
-Here are some ideas to get you started:
+<b>Thanks.</b>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-- 🔭 I’m currently working on ... Front-End Web Developing
+
+<!-- Here are some ideas to get you started: -->
+
+<!-- - 🔭 I’m currently working on ... Front-End Web Developing
 - 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -37,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
