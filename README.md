@@ -36,7 +36,9 @@
 </div>
 <br>
 <br>
-	
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+</div>
 <br>
 <br>
 <div>
