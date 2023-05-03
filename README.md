@@ -37,12 +37,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-bd9&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
 </p>
-
-<b>Thanks.</b>
 
 
