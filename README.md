@@ -38,11 +38,11 @@
 <br>
 <div style="display:flex; align-items: center; justify-content: space-between">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd">
+  
 </div>
 <br>
 <br>
-<div>
+<div style="">
 <img lign="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
 </div>
 </p>
