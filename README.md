@@ -32,15 +32,15 @@
 
 </p>
   </a>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<h2 align="left">My Github Stats</h2>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
+<img lign="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
 </p>
 
 
