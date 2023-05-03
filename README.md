@@ -30,7 +30,19 @@
 [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/)
 
 
+</p>
+  </a>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahid-bd9&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
+</p>
+
 <b>Thanks.</b>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
 
