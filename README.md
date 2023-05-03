@@ -30,21 +30,19 @@
 [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/) [![](https://img.shields.io/badge/-🧬%20Demo-000)](https://github.com/jahid-bd/)
 
 
-<h2 align="left">My Github Stats</h2>
+## :fire: My Stats :
+
 <div>
-  https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd
+<img src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 </div>
 <br>
-<br>
-<div style="display:flex; align-items: center; justify-content: space-between">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">
-  
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 </div>
+
 <br>
-<br>
-<div style="">
-<img lign="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
-</div>
-</p>
+<div>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
+  </div>
 
 
