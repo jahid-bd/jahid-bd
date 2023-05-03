@@ -33,12 +33,12 @@
 ## :fire: My Stats :
 
 <div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jahid-bd&theme=holi-theme">
 
 </div>
 
