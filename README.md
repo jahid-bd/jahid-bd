@@ -10,10 +10,10 @@
 
 
 ### 🔥🔥🔭 Currently working on
-- Leaning MERN Stack Development with [Stack Learner](https://www.youtube.com/c/StackLearner)
-- I'm making fullstack projects
-- I am creating fullstack development notebook and documentation [Repo Link](https://github.com/jahid-bd/fullstack-notebook)
-
+- 🔭 I’m currently working as frontend developer in Digital Gregg.
+- 🌱 I’m currently learning Backend Development.
+- 💬 Ask me about anything, I am happy to help 😄
+- 👯 I’m looking to collaborate with other Developers 😉
 
 ## 🛠 Skills
 - <b> Frontend : </b> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![SCSS](https://img.shields.io/badge/-SASS-pink?style=flat-circle&logo=sass)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-circle&logo=bootstrap) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=react)
