@@ -33,8 +33,12 @@
 ## :fire: My Stats :
 
 <div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+</div>
+<br>
+<div style="display: flex, gap: 50px">
   <img src="https://github-readme-stats.vercel.app/api?username=jahid-bd&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-
+  
 </div>
 <br>
 <div>
@@ -43,8 +47,6 @@
 </div>
 
 <br>
-<!-- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-bd&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-  </div> -->
+
 
 
