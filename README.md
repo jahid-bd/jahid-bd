@@ -14,7 +14,7 @@
   <a href="https://instagram.com/jahidbd240">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.linkedin.com/in/ᒏαhíd-hαsαn-bd24/">
+  <a href="https://www.linkedin.com/in/jahid-bd">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://medium.com/">
