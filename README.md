@@ -1,5 +1,5 @@
 <h1 >
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Jahid! 🤗
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Jahid! 🤗
 </h1>
 
 <p >Welcome to my GitHub profile! I'm Jahid, a Fullstack Developer from <img src="flag.png" width="15"/> <b>Rajshahi, Bangladesh.</b> I'm passionate about web development.</p>
@@ -24,6 +24,25 @@
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge">
   </a>
 </div>
+
+## 🚀 EXPERIENCE
+
+**Digital Gregg - Front-end Developer (Remote)**
+New Work, USA  
+*(November 2022 - May 2023)*
+
+- Integrated functionalities and APIs with responsive features in a Web Application.
+- Developed mobile-first responsive User Interface (UI) for portfolio websites with Typescript, Next.js, and Tailwind.
+- Collaborated with cross-functional teams to ensure projects were completed on time and within budget.
+
+## 💻 SKILLS
+
+- **Programming Languages**: JavaScript, TypeScript, Node.js
+- **Frameworks**: Next.js, Express.js, Tailwind CSS, Bootstrap
+- **Libraries**: React.js, Stripe, Socket.io, Redux, Redux Toolkit, React Query, Material UI, Framer Motion, GSAP 
+- **Tools**: Strapi, Sanity, Figma, MongoDB, Trello, Postman, JWT, Sass
+- **Version Control**: Git, GitHub, GitLab
+- **Topics**: SSR, DOM, Authentication, Authorization, Error Handling
 <!--
 ### 🔥🔥🔭 Currently working on
 - 🔭 I’m currently working as a frontend developer at Digital Gregg.
