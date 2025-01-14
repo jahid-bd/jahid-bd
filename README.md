@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Jahid! 🤗
 </h1>
 
-<p >Welcome to my GitHub profile! I'm Jahid, a Fullstack Developer from <img src="flag.png" width="15"/> <b>Rajshahi, Bangladesh.</b> I'm passionate about web development.</p>
+<p >Welcome to my GitHub profile! I'm Jahid, a Fullstack Software Developer from <img src="flag.png" width="15"/> <b>Rajshahi, Bangladesh.</b> I'm passionate about solving problems.</p>
 
 <div >
   <a href="https://www.facebook.com/profile.php?id=100010894242472">
@@ -28,12 +28,13 @@
 
 ## 💻 SKILLS
 
-- **Programming Languages**: JavaScript, TypeScript, Node.js
-- **Frameworks**: Next.js, Express.js, Tailwind CSS, Bootstrap
+- **Programming Languages**: JavaScript, TypeScript, C
+- **Frameworks**: Next.js, Express.js, Tailwind CSS, Bootstrap, Nest
+- **Database**: MongoDB, Postgres, MySQL
 - **Libraries**: React.js, Stripe, Socket.io, Redux, Redux Toolkit, React Query, Material UI, Framer Motion, GSAP 
-- **Tools**: Strapi, Sanity, Figma, MongoDB, Trello, Postman, JWT, Sass
+- **Tools**: Strapi, Sanity, Figma, Trello, Postman, JWT, Sass, Notion, Aha, Whimsical, Draw.io, ChatGPT etc
 - **Version Control**: Git, GitHub, GitLab
-- **Topics**: SSR, DOM, Authentication, Authorization, Error Handling
+
 <!--
 ### 🔥🔥🔭 Currently working on
 - 🔭 I’m currently working as a frontend developer at Digital Gregg.
