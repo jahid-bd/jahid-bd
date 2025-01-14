@@ -25,15 +25,6 @@
   </a>
 </div>
 
-## 🚀 EXPERIENCE
-
-**Digital Gregg - Front-end Developer (Remote)**
-New Work, USA  
-*(November 2022 - May 2023)*
-
-- Integrated functionalities and APIs with responsive features in a Web Application.
-- Developed mobile-first responsive User Interface (UI) for portfolio websites with Typescript, Next.js, and Tailwind.
-- Collaborated with cross-functional teams to ensure projects were completed on time and within budget.
 
 ## 💻 SKILLS
 
